@@ -116,8 +116,8 @@ disco_alert = 90    # Alerta quando disco ultrapassar 90%
 <BR>
 
 <div align="center">
-    <img src="imagens/emailTeste.jpeg" width="400"/>
-    <img src="imagens/planilhasTeste.jpeg" width="600"/>
+    <img src="imagens/emailTeste.jpeg" width="350"/>
+    <img src="imagens/planilhasTeste.jpeg" width="650"/>
 </div>
 
 ---
