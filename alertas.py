@@ -1,7 +1,7 @@
 
-cpu_alert = 5
-memoria_alert = 5
-disco_alert = 10
+cpu_alert = 80
+memoria_alert = 85
+disco_alert = 90
 
 def verificar_alertas(dados):
     alertas = []
