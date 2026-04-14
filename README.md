@@ -100,7 +100,6 @@ disco_alert = 90    # Alerta quando disco ultrapassar 90%
 - Integração com Slack para notificações
 ---
 
-##
 <div align="center">
     <h1>Sistema em uso / system in use<h1>
 </div>
@@ -110,18 +109,17 @@ disco_alert = 90    # Alerta quando disco ultrapassar 90%
     <img src="imagens/elevadoTeste.jpeg" width="500"/>
 </div>
 <BR>
+
 <div align="center">
     <img src="imagens/bancoTeste.jpeg" width="850"/>
 </div>
 <BR>
+
 <div align="center">
-    <img src="imagens/emailTeste.jpeg" width="360"/>
+    <img src="imagens/emailTeste.jpeg" width="400"/>
     <img src="imagens/planilhasTeste.jpeg" width="600"/>
 </div>
 
-
-
-##
 ---
 
 ## 🇺🇸 English
