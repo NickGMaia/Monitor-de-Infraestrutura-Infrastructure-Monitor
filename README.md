@@ -221,4 +221,4 @@ disco_alert = 90    # Alert when disk exceeds 90%
 ## Autor / Author
 
 **Nicolas Garcia Soto Maia**  
-[GitHub](https://github.com/NickGMaia) • [LinkedIn](www.linkedin.com/in/nicolasgsmaia)
+[GitHub]: https://github.com/NickGMaia • [LinkedIn]: www.linkedin.com/in/nicolasgsmaia
